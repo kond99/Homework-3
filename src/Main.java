@@ -134,5 +134,8 @@ public class Main {
                 + denisSalaryAnnualDifference + " рублей.");
         System.out.println("Кристина теперь получает " + kristinaSalaryChanged + " рублей. Годовой доход вырос на "
                 + kristinaSalaryAnnualDifference + " рублей.");
+
+        System.out.println("Конец");
+        System.out.println("Конец");
     }
 }
