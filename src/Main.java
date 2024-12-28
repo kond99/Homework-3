@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        // Задача 1
         System.out.println();
         System.out.println("Задача 1");
         byte mouse;
@@ -24,7 +23,7 @@ public class Main {
         System.out.println("Значение переменной grandMother с типом float = " + grandMother);
         System.out.println("Значение переменной grandFather с типом double = " + grandFather);
 
-        // Задача 2
+
         System.out.println();
         System.out.println("Задача 2");
         float temperature = 27.12f;
@@ -35,7 +34,7 @@ public class Main {
         short distance = 27897;
         byte weight = 67;
 
-        // Задача 3
+
         System.out.println();
         System.out.println("Задача 3");
         byte LP = 23;
@@ -47,7 +46,7 @@ public class Main {
 
         System.out.println("На каждого ученика рассчитано " + paperPerStudent + " листов бумаги.");
 
-        // Задача 4
+
         System.out.println();
         System.out.println("Задача 4");
         byte machineProductivityPerTwoMinute = 16;
@@ -66,7 +65,7 @@ public class Main {
         System.out.println("За 3 дня машина произвела " + machineThreeDaysProductivity + " штук бутылок.");
         System.out.println("За 1 месяц машина произвела " + machineOneMonthProductivity + " штук бутылок.");
 
-        // Задача 5
+
         System.out.println();
         System.out.println("Задача 5");
         byte schoolPaintNeed = 120;
@@ -80,7 +79,7 @@ public class Main {
         System.out.println("В школе, где " + schoolClassQuantity + " классов, нужно " + schoolWhitePaintNeed
                 + " банок белой краски и " + schoolBraunPaintNeed + " банок коричневой краски.");
 
-        // Задача 6
+
         System.out.println();
         System.out.println("Задача 6");
         byte bananaWeight = 80;
@@ -93,7 +92,7 @@ public class Main {
         System.out.println("Вес завтрака спортсмена составляет " + breakfastWeightGram + " грамм, или " + breakfastWeightKilogram
                 + " килограмм.");
 
-        // Задача 7
+
         System.out.println();
         System.out.println("Задача 7");
         short weightToLooseTotal = 7000;
@@ -110,7 +109,7 @@ public class Main {
                 + dayNeedToLooseWeight2 + " дней.");
         System.out.println("В среднем на похудение может потребоваться " + dayNeedToLooseWeightAverage + " дней.");
 
-        // Задача 8
+
         System.out.println();
         System.out.println("Задача 8");
         int mashaSalary = 67760;
