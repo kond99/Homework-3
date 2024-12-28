@@ -136,5 +136,6 @@ public class Main {
                 + kristinaSalaryAnnualDifference + " рублей.");
 
         System.out.println("Конец");
+        System.out.println("Конец");
     }
 }
